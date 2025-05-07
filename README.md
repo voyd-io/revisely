@@ -1,7 +1,11 @@
-# revisely
+# Revisely
 
-revisely is a gcse revision tool i have been working on for a while now
+*"the ultimate revision tool"*
 
-release date 06/5/25 - 07/5/25
+Features -
 
---voyd-io
+Multiple choice quiz questions for all GCSE subjects
+Search topics by name to get an explanation
+Smart tracking of question statistics
+
+
